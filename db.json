@@ -1,0 +1,39 @@
+{
+  "personas": [
+    {
+      "id": 1,
+      "nombre": "Peter",
+      "apellido": "Parker",
+      "edad": "23"
+    },
+    {
+      "id": 2,
+      "nombre": "Robert",
+      "apellido": "Dnir",
+      "edad": "30"
+    },
+    {
+      "nombre": "",
+      "apellido": "",
+      "edad": "",
+      "id": 3
+    }
+  ],
+  "tareas": [
+    {
+      "descripcion": "tarea 2",
+      "lista": true,
+      "id": 3
+    },
+    {
+      "descripcion": "tarea 3",
+      "lista": true,
+      "id": 4
+    },
+    {
+      "descripcion": "hacer la tarea",
+      "lista": false,
+      "id": 7
+    }
+  ]
+}
